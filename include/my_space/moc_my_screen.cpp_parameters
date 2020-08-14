@@ -1,0 +1,8 @@
+-I/home/linming/Workspace/iPilot/pilotdecision/debug_tools/QtAssociationTool
+-I/home/linming/Workspace/iPilot/pilotdecision/debug_tools/QtAssociationTool
+-DEIGEN_USE_NEW_STDVECTOR
+-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET
+-DFLANN_STATIC
+-o
+/home/linming/Workspace/iPilot/pilotdecision/debug_tools/QtAssociationTool/include/my_space/moc_my_screen.cpp
+/home/linming/Workspace/iPilot/pilotdecision/debug_tools/QtAssociationTool/include/my_space/my_screen.hpp
